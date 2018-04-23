@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+    height: 600px;
+}
+
+#erros{
+    display: flex;
+    justify-content: space-between;
+}
+
+#palavra{
+    font-size: 45pt;
+    letter-spacing: 5pt;
+}
+
+#letras{
+    font-size: 30pt;
+    color: red;
+}
+
+#tentativas{
+    font-size: 35pt;
+    color: red;
+}
